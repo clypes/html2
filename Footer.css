@@ -1,0 +1,59 @@
+.block
+{
+    margin-bottom:500px;
+}
+.footer
+{
+    padding:50px 0;
+    color: white;
+    background-color:#569de4;
+}
+
+.l h3
+{
+    font-size: 20px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+
+.l ul
+{
+    list-style: none;
+    padding: 0px;
+}
+
+.l a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.l a:hover
+{
+    color: black;;
+}
+
+.t h3
+{
+    font-size: 20px;
+}
+
+.t p
+{
+    opacity: 0.8;
+}
+
+.t p:hover
+{
+    opacity: 1;
+}
+
+.footer .copyright
+{
+    text-align:center;
+    padding-top:24px;
+    font-size:13px;
+    margin-bottom:0;
+}
+
